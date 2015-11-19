@@ -9,8 +9,11 @@ HOW TO USE
 
 The data for Quizzer is stored in a "data" folder, which must be located in the same directory as the built program file.
 Upon first use, there are no player accounts, and they can only be created by the coach, who has the following login information:
+
 Username - user
+
 Password - pass
+
 On this repository, the built file and the "data" folder are located in the "dist" folder
 
 Author: Daniel Hosseinian
