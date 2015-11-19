@@ -6,6 +6,7 @@ On the player's interface, the user is able to answer questions, view his or her
 Quizzer was designed to be placed on the Commack High School server, which can be accessed remotely.
 
 HOW TO USE
+
 The data for Quizzer is stored in a "data" folder, which must be located in the same directory as the built program file.
 Upon first use, there are no player accounts, and they can only be created by the coach, who has the following login information:
 Username - user
